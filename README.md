@@ -1,6 +1,7 @@
 # ISEC-SO2-PumpGame
 (Sistemas Operativos II)
 (Operating Systems II)
+Finished in June 2022
 
 I have been tasked with the development of a game (Pupm Game) using C.
 
