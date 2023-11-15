@@ -3,7 +3,7 @@
 (Operating Systems II)
 Finished in June 2022
 
-I have been tasked with the development of a game (Pupm Game) using C.
+I have been tasked with the development of a game (Pump Game) using C.
 
 The game supports a maximum of two players and will utilize shared memory, named pipes, and a circular buffer in its architecture. 
 
